@@ -6,7 +6,8 @@ can monitor or, if properly licensed and using the appropaite
 equipment, transmit on.
 
 The lists are organized heirarchically. Each list is formatted using a
-modified version of RFC6690, which allows for hash-style comments.
+modified version of [RFC6690](http://tools.ietf.org/html/rfc6690), which
+allows for hash-style comments.
 
 The actual frequencies are formatted using the freq-URI, as described
 here: <http://www.deepdarc.com/2011/09/30/x-freq-uri/>.

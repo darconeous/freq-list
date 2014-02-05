@@ -1,0 +1,3 @@
+# AAR (Railroad) radio channels
+# TODO! See http://www.qsl.net/n4jri/aar_ch.htm
+# 159.810 to 161.565 MHz.

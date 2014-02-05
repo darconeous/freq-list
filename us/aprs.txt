@@ -1,0 +1,10 @@
+# APRS North America
+<freq:144.39m?m=fm;std=afsk1200:ax.25>;title="APRS raw",
+<freq:144.39m?m=fm;ts=100;std=afsk1200:ax.25>;title="APRS ops",
+<freq:144.39m?m=fm;dcs=0;std=afsk1200:ax.25>;title="APRSmute",
+<freq:144.39m+0.6?m=fm;std=afsk1200:ax.25>;title="APRSinpt",
+<freq:144.39m-0.6?m=fm;std=afsk1200:ax.25>;title="APRSdigi",
+
+# Proposed North America UHF APRS Frequency
+# http://www.aprs.net/vm/DOS/UHFFREQ.HTM
+<freq:445.925m?m=fm;std=afsk1200:ax.25>;title="APRS UHF (PROP)"
