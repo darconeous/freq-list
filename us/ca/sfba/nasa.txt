@@ -1,0 +1,11 @@
+# Bay-Area NASA Channels
+<freq:7165>;title="NASA CA-SAN FRANCISCO",
+<freq:3840>;title="NASA CA-SAN FRANCISCO",
+<freq:145.585m?m=nfm>;title="NASA CA-SAN FRANCISCO",
+<freq:427.250m?m=nfm>;title="NASA CA-SAN FRANCISCO",
+<freq:444.775m?m=nfm>;title="NASA CA-SAN FRANCISCO",
+<freq:52.22m>;title="NASA CA-SAN JOAQUIN VLY",
+<freq:443.55m?m=nfm>;title="NASA CA-SAN JOSE",
+<freq:449m?m=nfm>;title="NASA CA-SANTA BARBARA",
+<freq:1277m?m=nfm>;title="NASA CA-SANTA BARBARA",
+

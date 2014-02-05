@@ -1,0 +1,6 @@
+# Emergency channels
+<freq:462.675m?m=fm;ts=141.3;tp=50>;title="GMRS EMERGENCY",
+<freq:27.065m?m=am;tp=4>;title="CB 9 EMERGENCY",
+<freq:156.80?m=nfm>;title="MARITIME EMERGENCY",
+<freq:121.50m?m=am>;title="ATC EMERGENCY",
+<freq:243.00?m=am>;title="MIL ATC EMERGENCY",

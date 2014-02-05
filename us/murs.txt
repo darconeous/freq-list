@@ -1,0 +1,7 @@
+# MURS
+<freq:151.82m?m=nfm;tp=2>;title="MURS 1",
+<freq:151.88m?m=nfm;tp=2>;title="MURS 2",
+<freq:151.94m?m=nfm;tp=2>;title="MURS 3",
+<freq:154.57m?m=fm;tp=2>;title="MURS 4 (BLU-DOT)",
+<freq:154.60m?m=fm;tp=2>;title="MURS 5 (GRN-DOT)",
+

@@ -1,0 +1,26 @@
+# American Red Cross (ARC)
+<freq:47.42m?m=usb>;title="ARC 1 Primary",
+<freq:47.50m?m=usb>;title="ARC 2 Secondary",
+<freq:47.46m?m=usb>;title="ARC 3 Alternate",
+<freq:47.66m?m=usb>;title="ARC 4 Backup",
+<freq:47.54m?m=usb>;title="ARC 5 Tactical",
+<freq:47.62m?m=usb>;title="ARC 6 Tactical",
+<freq:47.58m?m=usb>;title="ARC 7 Tactical",
+
+<freq:02802.4?m=usb>;title="ARC Disaster (F-91)",
+<freq:03171.4?m=usb>;title="ARC Disaster (F-92)",
+<freq:05136.4?m=usb>;title="ARC Disaster (F-93)",
+<freq:05141.4?m=usb>;title="ARC Disaster (F-94)",
+<freq:06859.5?m=usb>;title="ARC Disaster (F-95)",
+<freq:07550.5?m=usb>;title="ARC Disaster (F-96 - primary)",
+<freq:07698.5?m=usb>;title="ARC Disaster (F-97)",
+
+
+#VHF - High Band Operations 
+#Ch 1 PRIMARY 155.16 (no Red Cross licenses found in PA)
+#Ch 2 SECONDARY 155.22 (no Red Cross licenses found in PA)
+#Ch 3 ALTERNATE 155.28 (WNYI220 in Scranton, ERP 90 W)
+#Ch 4 BACKUP 155.34 (no Red Cross licenses found in PA)
+#Ch 5 TACTICAL 155.4 (no Red Cross licenses found in PA)
+#Also 155.235, 154.515, 154.57, 154.6, 154.625 on VHF
+

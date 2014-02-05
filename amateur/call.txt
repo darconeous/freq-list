@@ -1,0 +1,5 @@
+# Ham Call Frequencies
+<freq:52.525m?m=fm>;title="SIMPLEX CALL",
+<freq:146.52m?m=fm>;title="SIMPLEX CALL",
+<freq:446m?m=fm>;title="SIMPLEX CALL",
+

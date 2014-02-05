@@ -1,0 +1,16 @@
+# FRS
+<freq:462.5625m?m=nfm;tp=0.5>;title="FRS-1",
+<freq:462.5875m?m=nfm;tp=0.5>;title="FRS-2",
+<freq:462.6125m?m=nfm;tp=0.5>;title="FRS-3",
+<freq:462.6375m?m=nfm;tp=0.5>;title="FRS-4",
+<freq:462.6625m?m=nfm;tp=0.5>;title="FRS-5",
+<freq:462.6875m?m=nfm;tp=0.5>;title="FRS-6",
+<freq:462.7125m?m=nfm;tp=0.5>;title="FRS-7",
+<freq:467.5625m?m=nfm;tp=0.5>;title="FRS-8",
+<freq:467.5875m?m=nfm;tp=0.5>;title="FRS-9",
+<freq:467.6125m?m=nfm;tp=0.5>;title="FRS-10",
+<freq:467.6375m?m=nfm;tp=0.5>;title="FRS-11",
+<freq:467.6625m?m=nfm;tp=0.5>;title="FRS-12",
+<freq:467.6875m?m=nfm;tp=0.5>;title="FRS-13",
+<freq:467.7125m?m=nfm;tp=0.5>;title="FRS-14",
+

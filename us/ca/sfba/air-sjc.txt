@@ -1,0 +1,5 @@
+<freq:121.70m?m=am>;title="KSJC/GND",
+<freq:124.00m?m=am>;title="KSJC/TWR",
+<freq:126.95m?m=am>;title="KSJC/ATIS",
+<freq:257.60m?m=am>;title="KSJC/TWR2",
+<freq:114.1m>;title="KSJC/VOR",

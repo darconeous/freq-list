@@ -1,0 +1,14 @@
+# SSTV/FAX/IMAGE
+<freq:430.95m?m=usb;std=sstv>;title="SSTV CALL 70cm",
+<freq:223.85m?m=fm;std=sstv>;title="SSTV CALL 1.25m",
+<freq:145.5m?m=fm;std=sstv>;title="SSTV CALL 2m",
+<freq:50.68m?m=fm;std=sstv>;title="SSTV CALL 6m",
+<freq:28680?m=usb;std=sstv>;title="SSTV CALL 10m",
+<freq:21340?m=usb;std=sstv>;title="SSTV CALL 15m",
+<freq:14230?m=usb;std=sstv>;title="SSTV CALL 20m",
+<freq:7171?m=lsb;std=sstv>;title="SSTV CALL 40m",
+<freq:3845?m=lsb;std=sstv>;title="SSTV CALL 80m",
+<freq:1890?m=lsb;std=sstv>;title="SSTV CALL 160m",
+<freq:7040?m=lsb;std=sstv>;title="SSTV CALL 40m EUROPE",
+<freq:3730?m=lsb;std=sstv>;title="SSTV CALL 80m EUROPE",
+

@@ -1,0 +1,4 @@
+# Digital modes and frequencies
+<freq:173.075m?m=fm>;title="LoJack(TM)",
+<freq:144.39m?m=fm;ts=100;std=afsk1200:ax.25>;title="APRS",
+

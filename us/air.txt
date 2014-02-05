@@ -1,0 +1,4 @@
+# Air Traffic and Airports
+<freq:121.50m?m=am>;title="ATC EMERGENCY",
+<freq:122.75m?m=am>;title="Air-to-Air Fixed",
+<freq:123.025m?m=am>;title="Air-to-Air Heli",

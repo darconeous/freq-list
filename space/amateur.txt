@@ -1,0 +1,16 @@
+# Space Stations
+<freq:145.8m-1.31?m=fm>;title="ARISS Crew"
+<freq:145.8m/437.8m?m=fm>;title="ARISS Voice"
+<freq:145.825m?m=fm>;title="ARISS Packet"
+<freq:435.3m/145.920?m=fm;ts=/67>;title="AO-52 Voice"
+<freq:435.15m/145.860?std=dfsk9600:ax.25>;title="AO-52 Packet"
+<freq:437.485m?m=fm>;title="JQ1YGU (CO-66)"
+<freq:145.85m/436.795?m=fm,ts=/74.4>;title="SO-50 Arm Signal"
+<freq:145.85m/436.795?m=fm,ts=/67>;title="SO-50 Voice"
+<freq:437.25m>;title="ESTCube-1"
+<freq:437.505m?std=dfsk9600:ax.25>;title="ESTCube-1 Packet"
+<freq:437.325m?std=gfsk19200>;title="ITUpSAT1"
+<freq:437.485m?m=fm>;title="CO-66 (SEEDS) Telemetry"
+<freq:145.935?m=fm;std=bpsk>;title="AO-73 (FUNCube1) Telemetry"
+<freq:145.950m/435.130?bw=:20/20:>;title="AO-73 (FUNCube1) Transponder"
+

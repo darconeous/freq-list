@@ -1,0 +1,8 @@
+# NIST Time
+<freq:2.5m?m=am>;title="NIST TIME (WWV)",
+<freq:5m?m=am>;title="NIST TIME (WWV)",
+<freq:10m?m=am>;title="NIST TIME (WWV)",
+<freq:15m?m=am>;title="NIST TIME (WWV)",
+<freq:20m?m=am>;title="NIST TIME (WWV)",
+<freq:60?m=cw>;title="NIST TIME (WWVB)",
+

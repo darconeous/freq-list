@@ -1,0 +1,3 @@
+# APRS
+<freq:144.39m?m=fm;ts=100;std=afsk1200:ax.25>;title="APRS",
+

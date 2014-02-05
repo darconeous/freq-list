@@ -1,0 +1,19 @@
+# Bay-area Amateur Radio Repeaters
+
+<freq:145.23m-0.6?m=fm;ts=100>;title="N6NFI/R PA",
+
+<freq:441.3m+5?m=fm;ts=100>;title="WB6ECE/R",
+
+<freq:441.950m+5?m=fm;ts=100>;title="N6MPX/R SJ",
+<freq:147.3m+0.6?m=fm;ts=100>;title="N6MPX/R SM",
+
+<freq:147.39m+0.6?m=fm;ts=151.4>;title="W6PIY/R",
+<freq:223.96m-1.6?m=fm;ts=156.7>;title="W6PIY/R",
+<freq:52.58m-0.5?m=fm;ts=151.4>;title="W6PIY/R",
+
+<freq:443.225m+5?m=fm;ts=100>;title="WW6BAY/R1 S",
+<freq:443.975m+5?m=fm;ts=100>;title="WW6BAY/R2 E",
+<freq:927.8625m-25?m=nfm;dcs=023>;title="WW6BAY/R3 S",
+<freq:145.390m-0.6?m=fm;ts=100>;title="WW6BAY/R4 S",
+<freq:444.075m+5?m=fm;std=d-star>;title="WW6BAY/R5 S",
+<freq:444.425m+5?m=fm;ts=127.3>;title="WW6BAY/R6 S",

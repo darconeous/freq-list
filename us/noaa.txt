@@ -1,0 +1,9 @@
+# Weather (NOAA weather radio)
+<freq:162.400m?m=fm>;title="NOAA Weather",
+<freq:162.475m?m=fm>;title="NOAA Weather",
+<freq:162.5m?m=fm>;title="NOAA Weather",
+<freq:162.55m?m=fm>;title="NOAA Weather",
+<freq:162.525m?m=fm>;title="NOAA Weather",
+<freq:162.425m?m=fm>;title="NOAA Weather",
+<freq:162.45m?m=fm>;title="NOAA Weather",
+

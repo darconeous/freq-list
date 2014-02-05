@@ -1,0 +1,10 @@
+# FEMA?
+<freq:5211?m=usb>;title="FEMA",
+<freq:10493?m=usb>;title="FEMA",
+<freq:138.225m?m=nfm>;title="FEMA Call?",
+<freq:138.575m?m=nfm>;title="FEMA",
+<freq:139.450m?m=nfm>;title="FEMA",
+<freq:139.950m?m=nfm>;title="FEMA",
+<freq:142.350m?m=nfm>;title="FEMA",
+<freq:142.425m?m=nfm>;title="FEMA",
+<freq:142.450m?m=nfm>;title="FEMA",

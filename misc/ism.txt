@@ -1,0 +1,5 @@
+# ISM Frequencies
+<freq:6780?bw=30>;title="ISM",
+<freq:13560?bw=14>;title="ISM",
+<freq:27120?bw=326>;title="ISM",
+<freq:433.92m?bw=1.74m>;title="ISM",
