@@ -1,18 +1,37 @@
-# Amateur radio bands
+# Amateur radio bands, US
 
+# HF
 <freq:1900?bw=200>;title="160m",
 <freq:3750?bw=500>;title="80m",
 <freq:7150?bw=300>;title="40m",
-#<freq:>;title="30m",
+<freq:10125?bw=50>;title="30m",
 <freq:14175?bw=350>;title="20m",
-#<freq:>;title="17m",
-#<freq:>;title="15m",
-#<freq:>;title="12m",
+<freq:18068?bw=:100>;title="17m",
+<freq:21225?bw=450>;title="15m",
+<freq:24890?bw=:100>;title="12m",
 <freq:28850?bw=1700>;title="10m",
+
+# VHF
 <freq:52m?bw=4m>;title="6m",
 <freq:146m?bw=4m>;title="2m",
 <freq:223.5m?bw=3m>;title="1.25m",
+
+# UHF
 <freq:435m?bw=30m>;title="70cm",
 <freq:915m?bw=26m>;title="33cm",
 <freq:1270m?bw=60m>;title="23cm",
+<freq:2.3g?bw=:10m>;title="13cm",
+<freq:2.390g?bw=:60m>;title="13cm",
 
+# SHF
+<freq:3.3g?bw=:200m>;title="9cm",
+<freq:5650?bw=:275m>;title="5cm",
+<freq:10g?bw=:.5g>;title="3cm",
+<freq:24g?bw=:.25g>;title="1.2cm",
+
+# EHF
+<freq:47g?bw=:.2g>;title="6mm",
+<freq:76g?bw=:5g>;title="4mm",
+<freq:122.25g?bw=:.75g>;title="2.5mm",
+<freq:134g?bw=:7g>;title="2mm",
+<freq:241g?bw=:9g>;title="1mm",
