@@ -1,0 +1,7 @@
+# DHS
+
+# VHF National Interoperability Channels
+# http://publicsafetytools.info/nifog_info/downloads/NIFOG_1_4_J_for_PDA.pdf
+<freq:151.1375m?m=fm>;title="VTAC 11",
+<freq:154.4525m?m=fm>;title="VTAC 12",
+
