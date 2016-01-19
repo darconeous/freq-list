@@ -1,0 +1,7 @@
+# NCDXF/IARU propagation beacon frequencies
+# http://www.ncdxf.org/beacon/
+<freq:14100?m=cw>;title="NCDXF 14 (20M)";rel="beacon",
+<freq:18110?m=cw>;title="NCDXF 18 (17M)";rel="beacon",
+<freq:21150?m=cw>;title="NCDXF 21 (15M)";rel="beacon",
+<freq:24930?m=cw>;title="NCDXF 24 (12M)";rel="beacon",
+<freq:28200?m=cw>;title="NCDXF 28 (10M)";rel="beacon",

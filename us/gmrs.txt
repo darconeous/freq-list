@@ -14,6 +14,7 @@
 <freq:462.675m?m=fm;tp=50>;title="GMRS-675 CH.20",
 <freq:462.700m?m=fm;tp=50>;title="GMRS-700 CH.21",
 <freq:462.725m?m=fm;tp=50>;title="GMRS-725 CH.22",
+
 <freq:462.675m?m=fm;ts=141.3;tp=50>;title="GMRS EMERGENCY",
 
 # GMRS Repeater

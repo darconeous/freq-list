@@ -1,0 +1,8 @@
+# Weatherfax
+# http://www.blackcatsystems.com/software/multimode/fax.html
+<freq:4344.1?m=sb;bw=:3>;title="NMC US Coast Guard Weatherfax (Night)",
+<freq:8680.1?m=sb;bw=:3>;title="NMC US Coast Guard Weatherfax",
+<freq:12784.1?m=sb;bw=:3>;title="NMC US Coast Guard Weatherfax",
+<freq:17149.3?m=sb;bw=:3>;title="NMC US Coast Guard Weatherfax",
+<freq:22525.1?m=sb;bw=:3>;title="NMC US Coast Guard Weatherfax (Day)",
+

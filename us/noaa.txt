@@ -7,3 +7,6 @@
 <freq:162.425m?m=fm>;title="NOAA Weather",
 <freq:162.45m?m=fm>;title="NOAA Weather",
 
+<freq:137.6200m>;title="NOAA SAT 15",
+<freq:137.9125m>;title="NOAA SAT 15",
+<freq:137.1000m>;title="NOAA SAT 19",
