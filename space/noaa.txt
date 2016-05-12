@@ -1,1 +1,4 @@
 <freq:1691m?m=fm;std=wefax>;title="NOAA GOES WEFAX",
+<freq:137.620m?m=am;std=apt>;title="NOAA 15 APT",
+<freq:137.9125m?m=am;std=apt>;title="NOAA 18 APT",
+<freq:137.100m?m=am;std=apt>;title="NOAA 19 APT"
