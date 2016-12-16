@@ -1,6 +1,16 @@
 # Emergency channels
-<freq:462.675m?m=fm;ts=141.3;tp=50>;title="GMRS EMERGENCY",
+
+# Civilian
+<freq:462.675m?m=nfm;ts=141.3;tp=50>;title="GMRS EMERGENCY",
 <freq:27.065m?m=am;tp=4>;title="CB 9 EMERGENCY",
-<freq:156.80?m=nfm>;title="MARITIME EMERGENCY",
+
+# Aircraft
 <freq:121.50m?m=am>;title="ATC EMERGENCY",
-<freq:243.00?m=am>;title="MIL ATC EMERGENCY",
+<freq:243.00?m=am>;title="MIL/NATO ATC EMERGENCY",
+
+# Maritime
+<freq:156.80m?m=nfm;dv=5>;title="MARITIME VHF EMERGENCY",
+<freq:2182?m=usb>;title="MARITIME MF EMERGENCY",
+
+# Deprecated
+#<freq:500?m=cw>;title="INTL EMERGENCY (DEPRECATED)",
